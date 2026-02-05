@@ -1,7 +1,6 @@
 ## 🔗 デモURL（Vercel）
 
-[https://xxxxxx.vercel.app](https://vercel.com/87yoko-ai-engineers-projects/wealth-way/3k36ewmhqeKmA58P6zRVabNJYbfe)
-
+https://vercel.com/87yoko-ai-engineers-projects/wealth-way/3k36ewmhqeKmA58P6zRVabNJYbfe
 - ログイン不要
 - PC / スマートフォン対応
 - Google AI Studio + React + Vercel で構築
